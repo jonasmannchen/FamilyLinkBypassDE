@@ -14,7 +14,7 @@ Installiert die App „Microsoft Family Safety“ über diesen Link:
 
 https://play.google.com/store/apps/details?id=com.microsoft.familysafety&hl=de&pli=1
 
-[Bilder/1.jpg]
+![Bild 1](Bilder/1.jpg)
 
 Falls eure Eltern fragen, könnt ihr ihnen erklären, dass die App zur Verwaltung und Sperrung eures Computers oder eurer Xbox dient.
 
@@ -26,19 +26,19 @@ Gebt der App in den Einstellungen Administratorrechte:
 
 **3. Über die App zu Google und YouTube navigieren**
 
-Öffnet die App, tippt auf das Drei-Striche-Menü [Bilder/2.jpg] und anschließend auf **„Einstellungen“** [Bilder/3.jpg].
+Öffnet die App, tippt auf das Drei-Striche-Menü ![Bild 2](Bilder/2.jpg) und anschließend auf **„Einstellungen“** ![Bild 3](Bilder/3.jpg).
 
-Wählt dann **„Softwarelizenzen“** aus und tippt auf den blauen Link [Bilder/4.jpg]. Tippt anschließend auf das Microsoft-Logo [Bilder/5.jpg].
+Wählt dann **„Softwarelizenzen“** aus und tippt auf den blauen Link ![Bild 4](Bilder/4.jpg). Tippt anschließend auf das Microsoft-Logo ![Bild 5](Bilder/5.jpg).
 
-Scrollt nach unten und tippt beim YouTube-Logo auf **„Open at Microsoft“** [Bilder/6.jpg].
+Scrollt nach unten und tippt beim YouTube-Logo auf **„Open at Microsoft“** ![Bild 6](Bilder/6.jpg).
 
 Jetzt solltet ihr euch auf YouTube befinden.
 
 **4. Zu Google wechseln**
 
-Tippt unten rechts auf euer Profilbild [Bilder/7.jpg] und anschließend auf **„Abmelden“** [Bilder/8.jpg].
+Tippt unten rechts auf euer Profilbild ![Bild 7](Bilder/7.jpg) und anschließend auf **„Abmelden“** ![Bild 8](Bilder/8.jpg).
 
-Wählt danach **„Nutzungsbedingungen“** [Bilder/9.jpg] aus. Tippt oben auf das Symbol mit den neun Punkten [Bilder/10.jpg] und wählt anschließend **Google** aus [Bilder/11.jpg].
+Wählt danach **„Nutzungsbedingungen“** ![Bild 9](Bilder/9.jpg) aus. Tippt oben auf das Symbol mit den neun Punkten ![Bild 10](Bilder/10.jpg) und wählt anschließend **Google** aus ![Bild 11](Bilder/11.jpg).
 
 Damit solltet ihr Google und YouTube ohne die üblichen Einschränkungen aufrufen können.
 
