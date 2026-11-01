@@ -26,9 +26,10 @@ Gebt der App in den Einstellungen Administratorrechte:
 
 **3. Über die App zu Google und YouTube navigieren**
 
-Öffnet die App, tippt auf das Drei-Striche-Menü ![Bild 2](Bilder/2.jpg) und anschließend auf **„Einstellungen“** ![Bild 3](Bilder/3.jpg).
+Öffnet die App, tippt auf das Drei-Striche-Menü ![Bild 2](Bilder/2.jpg) und anschließend auf **„Einstellungen“**
+Wählt dann **„Softwarelizenzen“** aus und tippt auf den blauen Link ![Bild 3](Bilder/3.jpg).
 
-Wählt dann **„Softwarelizenzen“** aus und tippt auf den blauen Link ![Bild 4](Bilder/4.jpg). Tippt anschließend auf das Microsoft-Logo ![Bild 5](Bilder/5.jpg).
+![Bild 4](Bilder/4.jpg). Tippt anschließend auf das Microsoft-Logo ![Bild 5](Bilder/5.jpg).
 
 Scrollt nach unten und tippt beim YouTube-Logo auf **„Open at Microsoft“** ![Bild 6](Bilder/6.jpg).
 
